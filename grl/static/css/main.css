@@ -1,0 +1,56 @@
+body{
+    background-image: url(../IMG/);
+    background-color: rgb(0, 0, 0);
+}
+html{
+    background-color: rgb(253, 253, 253);
+}
+a{
+    color: rgb(0, 0, 0);
+}
+h1{
+    background-color: white;
+}
+.bio{
+    display: flex;
+    justify-content: space-around;
+    font-size: 70px;
+}
+.td{
+    color: white;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+.titulo{
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    width: 839px;
+    padding-left: 518px;
+    color: white;
+}
+.musicas{
+
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.musicas iframe{
+    width: 300px;
+}
+.img{
+    display: flex;
+}
+.img p{
+    width: 300px;
+    color: rgb(255, 255, 255);
+    margin: 1px;
+    padding-left: 10px;
+    width: 460px;
+    font-size: xx-large;
+}
